@@ -1,4 +1,8 @@
-# HMS_FS_mini-project
+# Hospital record Management System using Primary Indexing
+Type - Mini Project  
+Subject - File Structures  
+University - VTU  
+Year - 2021  
 
 This application consists of 5 records. This includes the records of 
 1.Doctor 2.Nurse 3.Receptionists 4.Ward and 5.Patients.
