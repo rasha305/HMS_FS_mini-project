@@ -35,3 +35,10 @@ By giving this choice user will exit from the application
 
 # Project Demo Video.
 https://youtu.be/SAVKLLzXy8M
+
+
+If you like this project, ⭐ repository.
+
+You can also fork the repository.
+
+Thank You.
