@@ -33,8 +33,9 @@ Receptionist are going to Register the patients and also they can remove the pat
 # 0.Exit
 By giving this choice user will exit from the application
 
-# Project Demo Video.
-https://youtu.be/SAVKLLzXy8M
+# Project Demo :
+
+<a href="https://youtu.be/SAVKLLzXy8M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@subramanya43" height="30" width="40" /></a>
 
 
 If you like this project, ⭐ repository.
